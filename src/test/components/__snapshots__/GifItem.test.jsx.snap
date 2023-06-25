@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing GifItem should match with snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Lady Gaga"
+      src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1ncWdoaHFkMXdvMWJjZXRrOHdkNjlqNDZpanduYnY4MXNjeGtlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TjGFDxbbZRYjv9vpCL/giphy.gif"
+    />
+    <p>
+      Lady Gaga
+    </p>
+  </div>
+</div>
+`;
